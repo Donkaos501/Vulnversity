@@ -193,6 +193,7 @@ ls -l /bin/bash
 
 Before:
 `-rwxr-xr-x 1 root root 1037528 May 16  2017 /bin/bash`
+<br>
 After:
 `-rwsr-sr-x 1 root root 1037528 May 16  2017 /bin/bash`
 
